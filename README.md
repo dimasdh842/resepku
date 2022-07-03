@@ -2,7 +2,7 @@
 
 Metamata Test internship
 
-## Instalasi
+## Installation
 
 1. Download file project from github `git clone https://github.com/dimasdh842/resepku.git` make sure that your computer has been installed php and mysql
 2. instal all dependencies that needs by the application by running `composer instal`
